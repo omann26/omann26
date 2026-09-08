@@ -6,7 +6,7 @@ MEng Engineering Mathematics student at the University of Bristol (2024–2028)
 
 | Project | Description |
 |---|---|
-| [MDM project 2]((https://github.com/lbuckley-jpg/MDM2-Project-2)) | Tool for tracking and comparing holdings across agribusiness-related ETFs |
+| [MDM project 2](https://github.com/lbuckley-jpg/MDM2-Project-2) | Tool for tracking and comparing holdings across agribusiness-related ETFs |
 
 
 ## Experience
