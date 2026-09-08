@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ollie 👋
 
-<!--
-**omann26/omann26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEng Engineering Mathematics student at the University of Bristol (2024–2028)
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| [MDM project 2]((https://github.com/lbuckley-jpg/MDM2-Project-2)) | Tool for tracking and comparing holdings across agribusiness-related ETFs |
+
+
+## Experience
+
+`Python` · `NumPy` / `SciPy` · `Pandas` · `Excel` (incl. Bloomberg API) · `Matplotlib`
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/olivermann6/)
