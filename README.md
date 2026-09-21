@@ -6,6 +6,8 @@ MEng Engineering Mathematics student at the University of Bristol (2024–2028)
 
 | Project | Description |
 |---|---|
+| [MDM project 2](https://github.com/omann26/computational-modelling) | 2nd year individual coursework covering Principles of Computational Modelling |
+| [MDM project 2](https://github.com/omann26/data-science-applied-statistics) | 2nd year individual coursework for Data Science and Applied Statistics |
 | [MDM project 2](https://github.com/lbuckley-jpg/MDM2-Project-2) | 2nd year Mathematic Data Modelling group project on wave point energy converters |
 
 
