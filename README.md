@@ -13,7 +13,7 @@ MEng Engineering Mathematics student at the University of Bristol (2024–2028)
 
 ## Experience
 
-`Python` · `NumPy` / `SciPy` · `Pandas` · `Excel` (incl. Bloomberg API) · `Matplotlib`
+`Python` · `NumPy` · `SciPy` · `Pandas` · `Excel` (incl. Bloomberg API) · `Matplotlib`
 
 ## Get in touch
 
