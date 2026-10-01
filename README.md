@@ -1,6 +1,6 @@
-# Hi, I'm Ollie 👋
+# Ollie Mann
 
-MEng Engineering Mathematics student at the University of Bristol (2024–2028)
+Engineering Mathematics student at the University of Bristol
 
 ## Selected projects
 
